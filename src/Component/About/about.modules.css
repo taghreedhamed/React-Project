@@ -1,0 +1,13 @@
+
+
+
+p {
+    line-height: 1.5;
+    font-size: 20px;
+}
+
+.section{
+    background-color: #1ABC9C;
+    height: 100vh;
+    color: white;
+}

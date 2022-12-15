@@ -1,0 +1,15 @@
+
+
+
+.btn-pos{
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.bg-green {
+    background-color: #1abc9c;
+    color: white;
+}
